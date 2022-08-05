@@ -1,7 +1,6 @@
-function theFunction(){
+function hi(){
     console.log('hi')
 }
-
 const btn = document.getElementById('inputName');
 
 btn.addEventListener('click', function handleClick(e) {
