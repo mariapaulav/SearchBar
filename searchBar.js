@@ -1,4 +1,4 @@
-function hi(){
+function check(){
     console.log('hi')
 }
 const btn = document.getElementById('inputName');
